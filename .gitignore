@@ -1,0 +1,11 @@
+venv/
+*.docx#
+*.csv#
+*.xlsx#
+*.xlsx
+__pycache__/
+Climate Zone Maps/
+*.log
+#*.pkl
+*.csv
+best_logistic_model_pycaret.pkl
