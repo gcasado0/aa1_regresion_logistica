@@ -9,3 +9,4 @@ Climate Zone Maps/
 #*.pkl
 *.csv
 best_logistic_model_pycaret.pkl
+docker/
